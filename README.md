@@ -7,7 +7,11 @@
 </div>
 
 [![beejh02's GitHub stats](https://github-readme-stats.vercel.app/api?username=beejh02)](https://github.com/beejh02/github-readme-stats)
-
+<div>
+<a href="https://solved.ac/joon0448" target="_blank">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joon0448" alt="Solved.ac Profile">
+</a>
+</div>
 ---
 # Name : 이준혁(Beejh02)
 ### Contact information
